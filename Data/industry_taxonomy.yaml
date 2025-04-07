@@ -1,0 +1,160 @@
+industries:
+  - name: Banking
+    keywords:
+      - bank
+      - loan
+      - mortgage
+      - credit
+      - deposit
+      - finance
+      - interest
+
+  - name: Insurance
+    keywords:
+      - insurance
+      - insurer
+      - premium
+      - coverage
+      - liability
+      - underwriting
+      - claims
+
+  - name: Investment Management
+    keywords:
+      - hedge fund
+      - asset management
+      - portfolio
+      - mutual fund
+      - wealth management
+      - private equity
+      - venture capital
+      - etf
+
+  - name: Energy
+    keywords:
+      - oil
+      - gas
+      - petroleum
+      - renewable
+      - solar
+      - wind
+      - electricity
+      - energy
+      - power
+
+  - name: Technology
+    keywords:
+      - software
+      - hardware
+      - cloud
+      - semiconductors
+      - ai
+      - cybersecurity
+      - tech
+      - platform
+
+  - name: Automotive
+    keywords:
+      - car
+      - autos
+      - vehicle
+      - electric vehicle
+      - ev
+      - autonomous
+      - automobile
+      - automotive
+
+  - name: Retail
+    keywords:
+      - retailer
+      - e-commerce
+      - store
+      - shopping
+      - consumer
+      - discount
+      - merchandise
+
+  - name: Telecommunications
+    keywords:
+      - telecom
+      - wireless
+      - 5g
+      - broadband
+      - carrier
+      - fiber
+      - communication
+
+  - name: Healthcare
+    keywords:
+      - biotech
+      - pharma
+      - pharmaceutical
+      - hospital
+      - medicine
+      - healthcare
+      - clinical
+
+  - name: Real Estate
+    keywords:
+      - property
+      - real estate
+      - reit
+      - housing
+      - commercial real estate
+      - residential
+      - developer
+
+  - name: Transportation
+    keywords:
+      - airline
+      - aviation
+      - logistics
+      - shipping
+      - trucking
+      - freight
+      - transport
+
+  - name: Consumer Goods
+    keywords:
+      - fmcg
+      - consumer products
+      - beverage
+      - food
+      - household
+      - cosmetics
+      - personal care
+
+  - name: Manufacturing
+    keywords:
+      - industrial
+      - manufacturer
+      - production
+      - factory
+      - machinery
+      - supply chain
+      - assembly
+
+  - name: Construction
+    keywords:
+      - construction
+      - builder
+      - contractor
+      - infrastructure
+      - civil engineering
+      - building
+
+  - name: Media
+    keywords:
+      - broadcast
+      - advertising
+      - television
+      - streaming
+      - film
+      - marketing
+      - digital media
+
+  - name: Other
+    keywords:
+      - miscellaneous
+      - diverse
+      - general
